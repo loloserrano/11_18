@@ -154,7 +154,6 @@ blah <- parties %>%
 
 ggplotly(blah, tooltip = "text") 
 
-blogdown::stop_serve()
 ```
 
 
@@ -163,7 +162,7 @@ Manly businesses
 
 parties %>%
   filter(typemf == "MBusiness") %>%
-  select(party1,  side, transaction, page) %>%
+  select(party1, side, transaction, page) %>%
   knitr::kable()
 ```
 
@@ -172,7 +171,7 @@ parties %>%
 
 parties %>%
   filter(typemf == "FBusiness") %>%
-  select(party1,  side, transaction, page) %>%
+  select(party1, side, transaction, page) %>%
   knitr::kable()
 ```
 
