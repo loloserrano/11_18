@@ -1,4 +1,4 @@
-baseurl = "/"
+sbaseurl = "/"
 languageCode = "en-us"
 title = "Frugging KCP"
 theme = "hugo-lithium"
