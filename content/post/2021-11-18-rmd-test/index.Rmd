@@ -129,9 +129,3 @@ The label ‘Consumer’ refers to transactions in which an individual or severa
 The label ‘Employee’ refers to transasctions in which an individual in2teracts as a former/potential employee of an organization/s
 The label ‘Family’ really means more interpersonal – the performances induced by these contracts are behavioral in nature, i.e. withholding smoking, being a good little nephew, transfer of money among relatives. 
 The label ‘Property’ refers to transactions between individuals over sale/transfer of property, not individuals interacting with homebuilders, which I counted as a consumer transaction.
-
-```{r}
-
-```
-
-
